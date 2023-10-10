@@ -1,0 +1,18 @@
+bbref_ID: player identifaction 
+yearID: what year they joined the allstar play league 
+gameID: a way to identify each player 
+startingpos: how many times they have started in their league 
+OFF600: percentage of outs they have accummyoulated that year 
+DEF600: percentage of home runs they are predicted every game 
+pitch200: the percentage of pitching 
+asg_PA: walks per plate percentage
+asg_IP: walks per home run percentage 
+OFFper9innASG:pick off attempts from each inning 
+DEFper9innASG: how many times batters reach plate peri inning 
+PITper9innASG: how many times the home plate is touched per inning
+TOTper9innASG:total percentage of stats for the player, not broken down by team 
+
+Kara Rogers
+The purpose of this codebook is to explain what each column is made for and is supposed to measure. 
+For example: the TOTperinnASG is calculating the total percentage of stats for the player, not the team. 
+You want the percentage higher than .1% because the higher the percentage, the better the player played in an all around rating. 
